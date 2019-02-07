@@ -21,4 +21,4 @@ egrep "\<0([689]{1})([ ,0-9,-]{1,2})([0-9]{3,4})([ ,0-9,-]{4,5})" test.txt | egr
 จึงจะทำให้ผลลัพธ์ทั้งหมดเป็นไปตามต้องการ
 
 ![Image of ex1](https://i.imgur.com/GPPFrU6.png)
-![image](ex1)
+![image](https://github.com/CPE-UTCC/nc358-19-hw-lab-03-TheMopKingDom/issues/1#issue-407800047)
